@@ -17,7 +17,7 @@ To read Slidebook files
 6. Click OK
 
 ## Output
-Three files per image stack will be saved. First is an .roi file which identifies an enlarged bounding box around the kinetochores. Second is a tif image stack of the cropped region around the kinetochores. Third is a .zip folder containing the ROI set of points identifying the kinetochores in the cropped image stack.
+Three files per image stack will be saved. First is an .roi file which identifies an enlarged bounding box around the kinetochores. Second is a tif image stack of the cropped region around the kinetochores. Third is a .zip folder containing the ROI set of points identifying the kinetochores in the cropped image stack. The log file will list the image stacks and number of kinetochores interspersed with output from the 3D Maxima Finder.
 
 ## References
 J. Ollion, J. Cochennec, F. Loll, C. Escudé, T. Boudier. (2013) TANGO: A Generic Tool for High-throughput 3D Image Analysis for Studying Nuclear Organization. Bioinformatics 2013 Jul 15;29(14):1840-1. [doi](http://dx.doi.org/10.1093/bioinformatics/btt276)
